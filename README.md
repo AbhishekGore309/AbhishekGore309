@@ -4,8 +4,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Gore</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekgore309&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekgore309" /> </p>
 
+<p><b>I am currently a graduate with a bachelor of computer science at Pune University. A programmer who likes codes in Front-end technologies. I like to explore new Domains. I am good at analyzing and problem-solving. My objective is to build a career in an organization that can provide me with the opportunity to apply my skills for the growth and profitability of the organization as well as to grow as an individual. I am a dedicated and hardworking member of the team.</b><p/>
 - 🔭 I’m currently working on **Web Development Projects.**
 
 - 🌱 I’m currently learning **React Js.**
